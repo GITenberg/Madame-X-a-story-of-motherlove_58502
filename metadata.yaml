@@ -1,10 +1,13 @@
 _repo: Madame-X-a-story-of-motherlove_58502
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Volkert, Edward C.
     gutenberg_agent_id: '49996'
     url: http://www.gutenberg.org/2009/agents/49996
+covers:
+- cover_type: archival
+  image_path: 58502-h/images/mdmx_cover.jpg
 creator:
   authors:
   - agent_name: McConaughy, J. W.
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '49995'
     url: http://www.gutenberg.org/2009/agents/49995
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58502#Madame-X-a-story-of-motherlove
 gutenberg_issued: '2018-12-19'
 gutenberg_type: Text
 identifiers:
